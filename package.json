@@ -2,7 +2,7 @@
   "name": "nest-boilerplate",
   "version": "1.0.0",
   "description": "A comprehensive NestJS boilerplate with JWT authentication, role-based authorization, team management, and common utilities",
-  "author": "Your Name",
+  "author": "Saidul Islam Bhuiyan",
   "private": false,
   "license": "MIT",
   "scripts": {
